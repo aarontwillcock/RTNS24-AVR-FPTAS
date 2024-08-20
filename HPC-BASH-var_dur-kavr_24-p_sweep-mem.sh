@@ -1,0 +1,10 @@
+#! /bin/bash
+sbatch HPC-SBATCH-var_dur-kavr_24-p05-mem.sh
+sbatch HPC-SBATCH-var_dur-kavr_24-p05-mem.sh
+sbatch HPC-SBATCH-var_dur-kavr_24-p06-mem.sh
+sbatch HPC-SBATCH-var_dur-kavr_24-p07-mem.sh
+sbatch HPC-SBATCH-var_dur-kavr_24-p08-mem.sh
+sbatch HPC-SBATCH-var_dur-kavr_24-p09-mem.sh
+sbatch HPC-SBATCH-var_dur-kavr_24-p10-mem.sh
+sbatch HPC-SBATCH-var_dur-kavr_24-p11-mem.sh
+sbatch HPC-SBATCH-var_dur-kavr_24-p12-mem.sh

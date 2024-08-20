@@ -1,0 +1,10 @@
+#! /bin/bash
+sbatch HPC-SBATCH-var_prec-kavr_24-p05.sh
+sbatch HPC-SBATCH-var_prec-kavr_24-p05.sh
+sbatch HPC-SBATCH-var_prec-kavr_24-p06.sh
+sbatch HPC-SBATCH-var_prec-kavr_24-p07.sh
+sbatch HPC-SBATCH-var_prec-kavr_24-p08.sh
+sbatch HPC-SBATCH-var_prec-kavr_24-p09.sh
+sbatch HPC-SBATCH-var_prec-kavr_24-p10.sh
+sbatch HPC-SBATCH-var_prec-kavr_24-p11.sh
+sbatch HPC-SBATCH-var_prec-kavr_24-p12.sh
